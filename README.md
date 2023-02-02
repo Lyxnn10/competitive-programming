@@ -1,1 +1,1 @@
-Im going to add library code for programming contests in here soon.
+Im going to add library code for competitive programming in here soon.
