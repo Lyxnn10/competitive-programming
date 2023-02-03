@@ -1,1 +1,1 @@
-Im going to add library code for competitive programming in here soon.
+Library code for competitive programming by @nealwu
