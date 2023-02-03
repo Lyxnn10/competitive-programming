@@ -1,1 +1,1 @@
-Library code for competitive programming by @nealwu
+Library code for competitive programming by @nealwu.
